@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "905982905609",
+    "firebase_url": "https://fire-alarm-system-2a104-default-rtdb.firebaseio.com",
+    "project_id": "fire-alarm-system-2a104",
+    "storage_bucket": "fire-alarm-system-2a104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905982905609:android:5f2dec14a6bd68b62f97d8",
+        "android_client_info": {
+          "package_name": "com.example.firealarmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905982905609-pp1rtuuun8odbfselgqmcc4m5pulp373.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3dwfmnQ2TScLXs1Pm4S4ExItpSj2NkAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905982905609-pp1rtuuun8odbfselgqmcc4m5pulp373.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905982905609:android:e63dffb3b4aa84282f97d8",
+        "android_client_info": {
+          "package_name": "com.sgt.kct_score"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905982905609-pp1rtuuun8odbfselgqmcc4m5pulp373.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3dwfmnQ2TScLXs1Pm4S4ExItpSj2NkAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905982905609-pp1rtuuun8odbfselgqmcc4m5pulp373.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
